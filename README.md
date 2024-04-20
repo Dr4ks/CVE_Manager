@@ -57,9 +57,7 @@ You can also get `.drawio` file from [here](CVE_Manager.drawio)
 
 You can see output as below.
 
-
-![alt text](img/image-1.png)
-
+![alt text](img/video.gif)
 
 
 # Author
