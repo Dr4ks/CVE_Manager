@@ -1,0 +1,33 @@
+[
+    {
+        "type":"o",
+        "name": "paloaltonetworks:pan-os",
+        "version": "11.1.0",
+        "owner team": "palodr4ks@gmail.com"
+    },
+    {
+        "type":"a",
+        "name": "vbulletin:vbulletin",
+        "version": "5.5.6",
+        "owner team": "palodr4ks@gmail.com"
+    },
+    {
+        "type":"a",
+        "name": "f5:big-ip_access_policy_manager",
+        "version": "13.0",
+        "owner team": "palodr4ks@gmail.com" 
+    },
+    {
+        "type":"a",
+        "name": "mobileiron:cloud",
+        "version": "11.0",
+        "owner team": "palodr4ks@gmail.com" 
+    },
+    {
+        "type":"h",
+        "name":"cisco:router",
+        "version":"9.17",
+        "owner team":"palodr4ks@gmail.com"
+    }
+]
+  
